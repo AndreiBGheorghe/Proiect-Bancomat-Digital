@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1670099010 source:c:\users\spiry\onedrive\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1671536357 source:c:\users\spiry\onedrive\desktop\folder\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1671539957 source:c:\users\spiry\onedrive\desktop\folder\teme\pc\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1671536357 source:c:\users\spiry\onedrive\desktop\folder\teme\anul i\pc\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1671536357 source:c:\users\spiry\onedrive\desktop\folder\facultate\anul i\pc\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+

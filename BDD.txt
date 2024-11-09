@@ -1,0 +1,3 @@
+Gheorghe_Andrei 1234 235.30
+Popescu_Bogdan 1235 3731.20
+Ionescu_Marcel 1236 1500.00
